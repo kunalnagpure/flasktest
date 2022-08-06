@@ -15,4 +15,3 @@ Slug: First Post
   <content>Some text.</content>
 </entry>
 
-
